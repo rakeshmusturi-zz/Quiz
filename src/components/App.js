@@ -1,5 +1,5 @@
 import React from 'react';
-import MainContainer from '../containers/MainContainer';
+import MainContainer from './MainContainer';
 
 const App = () => {
   return (
